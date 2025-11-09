@@ -5,3 +5,8 @@ if number % 2 == 0:
 else:
     print(f"{number} is an odd number.")
 
+//new code
+fruits = ["apple", "banana", "cherry"]
+
+for fruit in fruits:
+    print(f"I like {fruit}.")

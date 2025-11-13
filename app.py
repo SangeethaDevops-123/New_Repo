@@ -10,3 +10,6 @@ fruits = ["apple", "banana", "cherry"]
 
 for fruit in fruits:
     print(f"I like {fruit}.")
+
+I am adding two lines of extra data
+soo 

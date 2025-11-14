@@ -12,3 +12,4 @@ for fruit in fruits:
     print(f"I like {fruit}.")
 
 This will expand the disk space without downtime
+This will expand the disk space with downtime.

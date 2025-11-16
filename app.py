@@ -8,3 +8,5 @@ else:
 //new code
 fruits = ["apple", "banana", "cherry"]
 
+Adding another two lines of data
+
